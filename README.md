@@ -114,7 +114,7 @@ The data are most interesting when mapped. These data can be joined with geograp
 
 For comments, or if you are interested in assisting, please feel free to contact me at Lee.Hachadoorian@gmail.com
 
-These scripts are released under the GNU General Public License.
+These scripts are released under the MIT License.
 
 
 
